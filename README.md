@@ -9,8 +9,22 @@
 
 ## 📌 Instalación
 
-- `$ git clone https://github.com/jmluna123/API_ML.git`
-- `$ cd API_ML`
-- `$ conda env create -f environment.yml`
-- `$ conda activate ml-env`
-- `$ python .\app.py`
+```
+git clone https://github.com/jmluna123/API_ML.git
+```
+
+```
+cd API_ML
+```
+
+```
+conda env create -f environment.yml
+```
+
+```
+conda activate ml-env
+```
+
+```
+python .\app.py
+```
